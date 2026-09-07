@@ -1,10 +1,2 @@
-print(123)
-
-def 
-
-"3" + 3
-
-"4" + 4
-
-, ,,,
-prant('kvjjvj')
+for i in range(3):
+    print(123)
